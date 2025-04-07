@@ -2,13 +2,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=sinnara!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="80%" />
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
 **sinnarasam/sinnarasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 Here are some ideas to get you started:
