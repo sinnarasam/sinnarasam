@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark" alt="GitHub Profile Summary">
+</div>
 
