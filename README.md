@@ -1,9 +1,9 @@
 ## Hi there 👋
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=sinnara!&fontAlign=80&fontAlignY=40&color=gradient)
-<a href="https://opgc.me/#/users/sinnarasam" target="_blank"><img src="https://api.opgc.me/githubs/users/sinnarasam/tag/?theme=basic" /></a>
+
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="80%" />
 
-
+<a href="https://opgc.me/#/users/sinnarasam" target="_blank"><img src="https://api.opgc.me/githubs/users/sinnarasam/tag/?theme=basic" /></a>
 
 <!--
 **sinnarasam/sinnarasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
