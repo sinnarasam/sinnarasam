@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sinnarasam&theme=flat&column=7)](https://github.com/sinnarasam/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sinnarasam&theme=flat&column=6)](https://github.com/sinnarasam/)
