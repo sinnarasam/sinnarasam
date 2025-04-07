@@ -18,7 +18,10 @@
 
 - ⚡ Fun fact: I believe the future of education lies in the **intersection of human creativity and AI assistance** - and I'm working to make that accessible to everyone, regardless of their coding background! ![Vision](https://img.shields.io/badge/Vision-Future%20of%20Education-blueviolet?style=flat-square&logo=rocket)
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
