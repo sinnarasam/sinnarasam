@@ -2,10 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=sinnara!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
-<!--
-**sinnarasam/sinnarasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 🔭 I'm currently working on developing no-code AI platforms for educational purposes, making artificial intelligence accessible to everyone.
 🌱 I'm currently learning the latest advancements in AI agents, LLMs, and integrating them into practical educational frameworks.
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 💬 Ask me about deep learning, AI agents, educational technology, and how to organize successful project-based learning experiences.
 📫 How to reach me: Connect with me through my educational platforms or message me here on GitHub!
 ⚡ Fun fact: I believe the future of education lies in the intersection of human creativity and AI assistance - and I'm working to make that accessible to everyone, regardless of their coding background!
--->
+
 
   
   <!-- GitHub 프로필 카드 - 동일한 너비로 설정 -->
