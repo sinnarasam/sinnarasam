@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark" alt="GitHub Profile Summary">
+  
+  <!-- GitHub 프로필 카드 - 동일한 너비로 설정 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark" width="100%">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark" alt="GitHub Profile Summary Card">
+  </picture>
 </div>
 
