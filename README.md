@@ -1,14 +1,9 @@
 ## Hi there 👋
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=sinnara!&fontAlign=80&fontAlignY=40&color=gradient)
-<a href="https://opgc.me/#/users/sinnarasam" target="_blank"><img src="https://api.opgc.me/githubs/users/sinnarasam/tag/?theme=basic" /></a>
 <img src="https://raw.githubusercontent.com/sinnarasam/github-stats-transparent/output/generated/languages.svg" width="80%" />
-
-
 
 <!--
 **sinnarasam/sinnarasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 
@@ -21,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinnarasam&theme=nord_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sinnarasam&theme=flat&column=7)](https://github.com/sinnarasam/)
+
