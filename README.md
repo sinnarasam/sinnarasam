@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 <!--
 **sinnarasam/sinnarasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
